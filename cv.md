@@ -26,6 +26,6 @@ function multiply(a, b){
 console.log(multiply(3,7));
 ```
 
-## Education
+### Education
 *Pre-School JavaScript / Front-end Course in RS School
 *JavaScript / Front-end Course in RS School
