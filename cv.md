@@ -16,3 +16,12 @@ I'm 28 years old. I'm from Belarus Minsk. I love cats and am afraid of big dogs.
 * HTML
 * CSS (SCSS)
 * JavaScript
+
+### Code example
+```
+function multiply(a, b){
+  return a * b
+}
+
+console.log(multiply(3,7));
+```
