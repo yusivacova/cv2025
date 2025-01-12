@@ -1,1 +1,1 @@
-https://yusivacova.github.io/cv2025/
+https://yusivacova.github.io/cv2025/cv.md
