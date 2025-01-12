@@ -30,6 +30,6 @@ console.log(multiply(3,7));
 * Pre-School JavaScript / Front-end Course in RS School
 * JavaScript / Front-end Course in RS School
 
-## Languages
+### Languages
 * Russian
 * English
