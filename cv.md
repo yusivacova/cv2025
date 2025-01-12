@@ -8,3 +8,11 @@
 
 ### About me
 I'm 28 years old. I'm from Belarus Minsk. I love cats and am afraid of big dogs. I prefer winter sunny frosty weather or warm spring. In my free time I study English and programming.
+
+### Skils
+* Git
+* VS Code
+* Photoshop
+* HTML
+* CSS (SCSS)
+* JavaScript
